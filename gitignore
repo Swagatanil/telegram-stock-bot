@@ -1,0 +1,13 @@
+# Secrets — kabhi commit na karo
+.env
+start_bot.bat
+*token*
+
+# Runtime data
+watchlist.json
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
